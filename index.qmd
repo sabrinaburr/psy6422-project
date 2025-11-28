@@ -1,0 +1,24 @@
+---
+title: "Sabrina Burr PSY6422 Project"
+format: html
+editor: visual
+---
+
+# Overview
+
+Insert some text here with an overview of the project/document
+
+# Adding Some Code
+
+You can add code to your index page if you'd like, such as a plot.
+
+```{r}
+data(mtcars)
+plot(mtcars$hp, mtcars$mpg)
+```
+
+# Another Quarto Document
+
+You can link to another Quarto document from your home page (index).
+
+\[click here to go to my project\](myproject.html)
