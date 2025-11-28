@@ -21,4 +21,4 @@ plot(mtcars$hp, mtcars$mpg)
 
 You can link to another Quarto document from your home page (index).
 
-\[click here to go to my project\](myproject.html)
+Click [here](anotherquarto.html) to go to my other quarto document
