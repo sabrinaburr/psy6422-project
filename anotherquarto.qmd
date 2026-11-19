@@ -1,0 +1,10 @@
+---
+title: "Sabrina Burr Another Quarto Document"
+author: "Sabrina Burr"
+format: html
+editor: visual
+---
+
+# Another Quarto Document
+
+This is my new Quarto document that links from my home page.
