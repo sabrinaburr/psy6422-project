@@ -1,0 +1,17 @@
+---
+title: "Sabrina Burr PSY6422 Project"
+author: "Sabrina Burr"
+format: html
+editor: visual
+---
+
+# Overview
+
+Insert some text here with an overview of this project or document.
+
+# Adding Some Code
+
+```{r}
+data(mtcars)
+plot(mtcars$hp, mtcars$mpg)
+```
